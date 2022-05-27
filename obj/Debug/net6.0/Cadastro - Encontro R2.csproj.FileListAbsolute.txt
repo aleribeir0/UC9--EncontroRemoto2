@@ -1,0 +1,15 @@
+C:\Users\user\Documents\_git\UC 9\Cadastro - Encontro R2\bin\Debug\net6.0\Cadastro - Encontro R2.exe
+C:\Users\user\Documents\_git\UC 9\Cadastro - Encontro R2\bin\Debug\net6.0\Cadastro - Encontro R2.deps.json
+C:\Users\user\Documents\_git\UC 9\Cadastro - Encontro R2\bin\Debug\net6.0\Cadastro - Encontro R2.runtimeconfig.json
+C:\Users\user\Documents\_git\UC 9\Cadastro - Encontro R2\bin\Debug\net6.0\Cadastro - Encontro R2.dll
+C:\Users\user\Documents\_git\UC 9\Cadastro - Encontro R2\bin\Debug\net6.0\Cadastro - Encontro R2.pdb
+C:\Users\user\Documents\_git\UC 9\Cadastro - Encontro R2\obj\Debug\net6.0\Cadastro - Encontro R2.csproj.AssemblyReference.cache
+C:\Users\user\Documents\_git\UC 9\Cadastro - Encontro R2\obj\Debug\net6.0\Cadastro - Encontro R2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\_git\UC 9\Cadastro - Encontro R2\obj\Debug\net6.0\Cadastro - Encontro R2.AssemblyInfoInputs.cache
+C:\Users\user\Documents\_git\UC 9\Cadastro - Encontro R2\obj\Debug\net6.0\Cadastro - Encontro R2.AssemblyInfo.cs
+C:\Users\user\Documents\_git\UC 9\Cadastro - Encontro R2\obj\Debug\net6.0\Cadastro - Encontro R2.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\_git\UC 9\Cadastro - Encontro R2\obj\Debug\net6.0\Cadastro - Encontro R2.dll
+C:\Users\user\Documents\_git\UC 9\Cadastro - Encontro R2\obj\Debug\net6.0\refint\Cadastro - Encontro R2.dll
+C:\Users\user\Documents\_git\UC 9\Cadastro - Encontro R2\obj\Debug\net6.0\Cadastro - Encontro R2.pdb
+C:\Users\user\Documents\_git\UC 9\Cadastro - Encontro R2\obj\Debug\net6.0\Cadastro - Encontro R2.genruntimeconfig.cache
+C:\Users\user\Documents\_git\UC 9\Cadastro - Encontro R2\obj\Debug\net6.0\ref\Cadastro - Encontro R2.dll
