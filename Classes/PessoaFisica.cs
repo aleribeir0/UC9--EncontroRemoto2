@@ -6,6 +6,11 @@ namespace Cadastro___Encontro_R2.Classes
     {
 
         public string? cpf { get; set; }
+        public PessoaFisica(DateTime dataNasc)
+        {
+            this.dataNasc = dataNasc;
+
+        }
         public DateTime dataNasc { get; set; }
 
 
@@ -16,7 +21,7 @@ namespace Cadastro___Encontro_R2.Classes
 
         public bool ValidarDataNasc(DateTime dataNasc)
         {
-            DateTime dataAtual= DateTime.Today;
+            DateTime dataAtual = DateTime.Today;
 
             double anos = (dataAtual - dataNasc).TotalDays / 365;
 
