@@ -16,8 +16,35 @@ namespace Cadastro___Encontro_R2.Classes
 
         public override float PagarImposto(float rendimento)
         {
+            if (rendimento <= 1500)
+           {
+
+                return 0;
+
+           }else if(rendimento > 1500 && rendimento <= 3500)
+           {
+
+                float resultado = (rendimento / 100) * 2;
+                return resultado;
+
+           }else if(rendimento >3500 && rendimento <= 6000)
+           {
+                float resultado = (rendimento / 100) * 3.5f;
+                return resultado;
+                
+           }else
+           {
+                float resultado = (rendimento / 100) * 5f;
+                return resultado;
+           }
+
+           }
+
+        public bool ValidarDataNasc(DateTime dataNasc)
+        {
             throw new NotImplementedException();
         }
+    }
 
         public bool ValidarDataNasc(DateTime dataNasc)
         {
@@ -34,9 +61,6 @@ namespace Cadastro___Encontro_R2.Classes
             return false;
 
         }
-
-
-
         public bool ValidarDataNasc(string dataNasc)
         {
             DateTime dataConvertida;
@@ -60,4 +84,3 @@ namespace Cadastro___Encontro_R2.Classes
 
         }
     }
-}

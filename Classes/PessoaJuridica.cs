@@ -12,7 +12,22 @@ namespace Cadastro___Encontro_R2.Classes
 
         public override float PagarImposto(float rendimento)
         {
-            throw new NotImplementedException();
+            if (rendimento <= 3000)
+            {
+                 return rendimento * 0.3f;                    
+
+            }else if (rendimento <= 6000)
+            {
+                 return rendimento * 0.5f;                    
+
+
+            }else if (rendimento <= 10000)
+            {
+                 return rendimento * 0.7f;
+            }else 
+            {
+                return rendimento * 0.9f;          
+            }
         }
 
         public bool ValidarCnpj(string cnpj)

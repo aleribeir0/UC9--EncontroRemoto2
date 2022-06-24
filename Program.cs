@@ -49,6 +49,8 @@ do
             Console.WriteLine(@$"
     Nome: {novaPf.Nome}
     Endereço: {novaPf.Endereco.logradouro}, {novaPf.Endereco.numero}
+    Maio de idade: {(metodosPf.ValidarDataNasc(novaPf.dataNasc) ? "Sim" : "Não")}
+    Imposto a ser pago: {metodosPf.PagarImposto(novaPf.Rendimento).ToString("C")}
     ");
 
             Console.WriteLine($"Aperte ENTER para continuar");
@@ -115,6 +117,6 @@ for (var contador = 0; contador < 6; contador++)
 }
 Console.ResetColor();
 
-
+// ifternario: condicao ? "Sim" : " Não"
 // Console.WriteLine($"Nome: {novaPF.Nome} Nome: {novaPF.Nome}");
 // Console.WriteLine("Nome" + novaPF.Nome + " Nome: " + novaPF.Nome);
